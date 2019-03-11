@@ -1,5 +1,5 @@
 {
-  "name": "bi-vorpal",
+  "name": "serviser-vorpal",
   "version": "1.11.5",
   "description": "Node's first framework for building immersive CLI apps.",
   "main": "./lib/vorpal.js",
